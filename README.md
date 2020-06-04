@@ -1,9 +1,14 @@
 # -Team-237-Zero-Hunger-Backend
-for farmer's expand
+REST API for Zero Hunger. 
 
-### requirements  Php 7 or greater
+## Requirements  
+Php 7 or greater
+Post Man
 
-###  `git clone `
- from home directory
+## How to install
+Choose install location
+###  `git clone ` or download and zip
+
+From clone directory
 ### `php artisan serve `
 
