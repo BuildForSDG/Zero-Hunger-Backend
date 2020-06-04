@@ -1,4 +1,4 @@
-# -Team-237-Zero-Hunger-Backend
+# Team-237-Zero-Hunger-Backend
 REST API for Zero Hunger. 
 
 ## Requirements  
@@ -7,8 +7,9 @@ Post Man
 
 ## How to install
 Choose install location
-###  `git clone ` or download and zip
+###  `git clone ` or download and zip and extract in install location
 
-From clone directory
+## How to run 
+From install location or clone directory, run:
 ### `php artisan serve `
 
