@@ -3,7 +3,7 @@ for farmer's expand
 
 ### requirements  Php 7 or greater
 
-##  `git clone `
+###  `git clone `
  from home directory
 ### `php artisan serve `
 
