@@ -4,8 +4,8 @@ namespace App\Http\Controllers\Api;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use App\Product;
-class ProductsController extends Controller
+
+class CartsController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -15,7 +15,6 @@ class ProductsController extends Controller
     public function index()
     {
         //
-        return Product::all();
     }
 
     /**
@@ -27,10 +26,6 @@ class ProductsController extends Controller
     public function store(Request $request)
     {
         //
-        return Dog::create($request -> only([
-
-
-        ]));
     }
 
     /**
