@@ -24,7 +24,7 @@ class Product extends Model
     'qty_per_package',
     'warehouse_id',
     'farmer_id',
-    ]
+    ];
 
     public function carts(){
     	return $this -> belongsToMany(Cart::class);

@@ -12,7 +12,7 @@ class Warehouse extends Model
     	'storage_capacity',
     	'logo',
     	'product_id',
-    ]
+    ];
   public function products(){
     	return  $this -> hasMany(Product::class);
 
