@@ -19,3 +19,4 @@ use Illuminate\Support\Facades\Route;
 // });
 Route::resource('products','Api\ProductsController');
 Route::resource('warehouses','Api\WarehousesController');
+Route::resource('farmers','Api\FarmersController');

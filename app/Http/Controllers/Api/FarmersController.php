@@ -15,6 +15,7 @@ class FarmersController extends Controller
     public function index()
     {
         //
+        return Farmer::all();
     }
 
     /**
