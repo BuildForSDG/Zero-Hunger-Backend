@@ -8,7 +8,7 @@ class AddForeignkeyToOrders extends Migration
 {
     /**
      * Run the migrations.
-     *
+     *x
      * @return void
      */
     public function up()

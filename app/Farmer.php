@@ -18,7 +18,7 @@ class Farmer extends Model
     	'land_size',
     	'education',
     	'contact_person',
-    ]
+    ];
     public function products(){
     	return  $this -> hasMany(Product::class);
 
